@@ -1,0 +1,61 @@
+.image-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+    
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+    border: 4px #000 solid;
+}
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poiret One', cursive;
+
+}
+
+/* TEXTING PAGE */
+
+
+a {
+    margin: 20px;
+    font-size: 35px;
+    color: #000;
+    text-decoration: sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poiret One', cursive;;
+
+    
+}
+
+
+.header {
+    background-image: url(Images_resized/BAH_AlphaSaliou_FinalProject_ImageGrid.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 60px;
+    color: red;
+    font-size: 40px;
+    border: 3px #000 solid;
+   
+    
+}
+
+.header h2 {
+    background-color: white;
+    border:3px #000 solid;
+}
+
+body {
+    background-color: #eec591
+}
+p{
+    margin: 20px;
+    font-size: 23px;
+    text-align: justify;
+    font-family: 'Work Sans', sans-serif;
+}
